@@ -6,7 +6,7 @@ license = "AGPL-3.0-or-later"
 authors = ["Andrew Kozmin <syn.kolbasyn.06@gmail.com>"]
 description = "sk messanger web client"
 readme = "README.md"
-homepage = "https://github.com/SynKolbasyn/sk"
-repository = "https://github.com/SynKolbasyn/sk"
+homepage = "https://github.com/SynKolbasyn/sk/sk_web_client"
+repository = "https://github.com/SynKolbasyn/sk/sk_web_client"
 
 [dependencies]
