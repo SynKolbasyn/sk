@@ -1,0 +1,14 @@
+[package]
+name = "sk"
+version = "0.1.0"
+edition = "2021"
+license = "AGPL-3.0-or-later"
+authors = ["Andrew Kozmin <syn.kolbasyn.06@gmail.com>"]
+description = "sk messanger pc client"
+readme = "README.md"
+homepage = "https://github.com/SynKolbasyn/sk"
+repository = "https://github.com/SynKolbasyn/sk"
+
+[dependencies]
+anyhow = "1.0.94"
+strum = { version = "0.26.3", features = ["derive"] }

@@ -1,0 +1,12 @@
+[package]
+name = "sk_server"
+version = "0.1.0"
+edition = "2021"
+license = "AGPL-3.0-or-later"
+authors = ["Andrew Kozmin <syn.kolbasyn.06@gmail.com>"]
+description = "sk messanger server"
+readme = "README.md"
+homepage = "https://github.com/SynKolbasyn/sk"
+repository = "https://github.com/SynKolbasyn/sk"
+
+[dependencies]
